@@ -101,10 +101,38 @@ These results show strong interactions between clinical and socioeconomic factor
 This project demonstrates that combining **statistical modeling** with **ensemble machine-learning methods** can:
 
 - Identify robust predictors of Major Depressive Disorder  
-- Provide reliable tools for early clinical detection  
+- Provide reliable tools for early clinical detection
+
+  ---
+
+ ## Repository Contents
+
+### `AMS 595 Group Project.ipynb`
+A Jupyter Notebook containing the full workflow for the project.  
+This notebook includes:
+
+- Data loading and preprocessing  
+- Exploratory data analysis (EDA)  
+- Modeling steps (logistic regression, random forest, SGD, LightGBM, CatBoost, etc.)  
+- Visualizations of distributions, correlations, and model performance  
+- Interpretation of results and final conclusions  
+
+This is the primary document where all analysis is conducted.
+
+---
+
+### `mh-cld-2023-ds0001-info-codebook_v1_0.pdf`  
+The official **codebook** for the *Mental Health Client-Level Data (MH-CLD), 2023* dataset.  
+This document provides:
+
+- Detailed variable definitions (demographics, diagnoses, socioeconomic indicators, service-use variables, etc.)  
+- Value labels and frequencies (pages 9–47) describing category distributions  
+- Notes on confidentiality, derived variables, and dataset structure  
+- Appendices containing recoding rules and technical documentation  
+
+This file is essential for interpreting the dataset and understanding how variables are encoded and used throughout the analysis.
+
 - Support mental-health professionals and policy makers  
 - Handle large-scale, complex, imbalanced datasets effectively  
 
-Future work may incorporate temporal analysis, causal inference, or clinical text data to improve predictive performance.
 
----
