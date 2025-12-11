@@ -102,8 +102,10 @@ This project demonstrates that combining **statistical modeling** with **ensembl
 
 - Identify robust predictors of Major Depressive Disorder  
 - Provide reliable tools for early clinical detection
+- Support mental-health professionals and policy makers  
+- Handle large-scale, complex, imbalanced datasets effectively  
 
-  ---
+---
 
  ## Repository Contents
 
@@ -119,7 +121,6 @@ This notebook includes:
 
 This is the primary document where all analysis is conducted.
 
----
 
 ### `mh-cld-2023-ds0001-info-codebook_v1_0.pdf`  
 The official **codebook** for the *Mental Health Client-Level Data (MH-CLD), 2023* dataset.  
@@ -132,7 +133,5 @@ This document provides:
 
 This file is essential for interpreting the dataset and understanding how variables are encoded and used throughout the analysis.
 
-- Support mental-health professionals and policy makers  
-- Handle large-scale, complex, imbalanced datasets effectively  
 
 
