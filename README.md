@@ -122,6 +122,15 @@ This notebook includes:
 This is the primary document where all analysis is conducted.
 
 
+### `AMS 595 Group Project.pdf`
+
+This is the report on our analysis.
+
+### `AMS 595 Group Project Output.pdf`
+
+This is a pdf of our entire notebook, including the output produced from each individual cell.
+
+
 ### `mh-cld-2023-ds0001-info-codebook_v1_0.pdf`  
 The official **codebook** for the *Mental Health Client-Level Data (MH-CLD), 2023* dataset.  
 This document provides:
